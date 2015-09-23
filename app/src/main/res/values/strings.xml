@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">beacon</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="basic_settings">Settings</string>
+    <string name="minutes_label">Minutes</string>
+    <string name="airplane_mode_text">Airplane Mode Toggle</string>
+    <string name="gps_log_text">Log Here</string>
+    <string name="gps_start">Start</string>
+    <string name="gps_stop">Stop</string>
+</resources>
