@@ -8,7 +8,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.EditText;
-import android.widget.Toast;
 
 /**
  * A placeholder fragment containing a simple view.
@@ -51,7 +50,6 @@ public class MainActivityFragment extends Fragment {
                 } else {
                     mInterval = Integer.parseInt(s.toString());
                 }
-                Toast.makeText(getActivity().getApplicationContext(), String.valueOf(mInterval), Toast.LENGTH_SHORT).show();
             }
 
         });

@@ -36,7 +36,7 @@
             <EditText
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:inputType="textNoSuggestions"
+                android:inputType="number"
                 android:ems="6"
                 android:id="@+id/interval_text_field"
                 android:hint="@string/interval_hint"/>
