@@ -32,8 +32,6 @@ public class MainActivityFragment extends Fragment {
 
         mTitleField.addTextChangedListener(new TextWatcher() {
 
-            private static final String TAG = "TextWatcher";
-
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
             }
@@ -53,6 +51,7 @@ public class MainActivityFragment extends Fragment {
             }
 
         });
+
         return v;
     }
 }
