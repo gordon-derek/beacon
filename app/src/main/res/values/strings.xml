@@ -8,4 +8,5 @@
     <string name="gps_log_text">Log Here</string>
     <string name="gps_start">Start</string>
     <string name="gps_stop">Stop</string>
+    <string name="interval_hint">Interval</string>
 </resources>
